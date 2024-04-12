@@ -5,7 +5,7 @@ int res; //global declaration of variable
 int fcorrect(int yr)
 {
 int ycode;
-/*calculated in the range of 1600-2200*/
+/*calculated in the range of 1500-2299*/
 if(yr>=1500 && yr<1599){
 ycode=0;
 }
